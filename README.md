@@ -1,6 +1,6 @@
 Project 2 for Module CS7IS2/Artificial Intelligence   
 
-Lecturer : Ivana Dusparic   
+Lecturer: Ivana Dusparic   
 
 Submission Date: April 7th 
 
@@ -11,9 +11,12 @@ This file contains all relevant submission information for the assignment 2 of C
 
 -----------------Team Members-----------------  
 
-Ankana Bhattacharjee
-Arman Azizi
-Valerie Brosnan
+Ankana Bhattacharjee  
+
+Arman Azizi  
+
+Valerie Brosnan  
+
 Vishal Ruhil  
 
 -----------------Project Description-----------------

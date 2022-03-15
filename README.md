@@ -7,7 +7,8 @@ Submission Date: April 7th
 
 This file contains all relevant submission information for the assignment 2 of CS7IS2  
 
------------------Team Members-----------------
+-----------------Team Members-----------------  
+
 Ankana Bhattacharjee
 Arman Azizi
 Valerie Brosnan
@@ -27,13 +28,12 @@ Google Folder used containing:
 Link : https://drive.google.com/drive/folders/1DwyNODUZo8ouraN_60i0ab46gBBLgDPx?usp=sharing  
 
 
-Contents :              Minutes 
-                        Design document 
+Contents :              Minutes  
+                        Design document   
                         Contribution
 
 
 -----------------Report Link-----------------  
-
 
 The report can be found :[]
 

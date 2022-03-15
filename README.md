@@ -12,11 +12,8 @@ This file contains all relevant submission information for the assignment 2 of C
 -----------------Team Members-----------------  
 
 Ankana Bhattacharjee  
-
 Arman Azizi  
-
 Valerie Brosnan  
-
 Vishal Ruhil  
 
 -----------------Project Description-----------------

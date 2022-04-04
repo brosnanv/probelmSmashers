@@ -35,6 +35,8 @@ Simulated Annealing
 
 
 -----------------Group Communications-----------------  
+Microsoft teams was used for regular updates
+
 
 Google Folder used containing:
 Link : https://drive.google.com/drive/folders/1DwyNODUZo8ouraN_60i0ab46gBBLgDPx?usp=sharing  

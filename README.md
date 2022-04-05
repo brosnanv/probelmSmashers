@@ -6,7 +6,6 @@ Submission Date: April 7th
 
 
 
-
 This file contains all relevant submission information for the assignment 2 of CS7IS2  
 
 -----------------Team Members-----------------  
@@ -18,13 +17,23 @@ Vishal Ruhil
 
 -----------------Project Description-----------------
 
-This is the second assignment for the CS7IS2 module. This project looks at solving an artificial intelligence problem using three different families of search algorithims/ 
-The problem selected is:
+This is the second assignment for the CS7IS2 module. This project looks at solving an artificial intelligence problem using three different families of search algorithims
+
+The problem selected is: Standardised Sudoku
+Aim: To fill a 9x9 grid with digits so that each column, each row and each 3x3 of the nine subgrids that compose the grid contain all digits from 1 tom 9. 
+
 The search algorithims compared are: 
 
+DFS Back Tracking 
+
+Harmony Search 
+
+Simulated Annealing 
 
 
 -----------------Group Communications-----------------  
+Microsoft teams was used for regular updates
+
 
 Google Folder used containing:
 Link : https://drive.google.com/drive/folders/1DwyNODUZo8ouraN_60i0ab46gBBLgDPx?usp=sharing  
@@ -32,12 +41,12 @@ Link : https://drive.google.com/drive/folders/1DwyNODUZo8ouraN_60i0ab46gBBLgDPx?
 
 Contents :              Minutes  
                         Design document   
-                        Contribution
+                        Contributions
 
 
 -----------------Report Link-----------------  
 
-The report can be found :[]
+The report can be found :[https://www.overleaf.com/project/6241f9045444c90c053eeb24]
 
 -----------------Video Presentation-----------------  
  

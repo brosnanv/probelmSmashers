@@ -4,9 +4,12 @@ import numpy as np
 
 
 ''''
+Code for AI Assignment 2 
+Implementation based on algorithim propsed by Zong Woo Geem in the paper 
+Harmony Search Algorithim for solving sudoku 
 
 
-Harmony search algorithm to solve sudoku 
+
 In its basic version this algorithm is a heuristic method for solving discrete combinationl optimization problems 
 initialize the Parameters for Problem and Algorithm.
 Initialize the Harmony Memory (HM).
@@ -40,14 +43,14 @@ def harmony_search(prob, iterations=5000, HMS=100, HCR=.6, PAR=.2):
 
 
 class HarmonyMemory():
-
+    
     def __init__(self,problem,memory_size=50,HMCR=0.9,PAR=0.1):
         self.problem = problem
         self.memory_size = memory_size
         self.HMCR = HMCR 
         self.PAR =PAR 
         self.mask = [((x, y),j) for x, i in enumerate(problem) for y, j in enumerate(i)  if problem[x][y]!=0]
-
+        ## this is initialised randomly 
         self.memeory = [self.randSolution(problem) for x in range(memory_size)]
         self.memory =[(s,self.calculatePenalty(s)) for s in self.memeory]
         self.update()
@@ -67,6 +70,7 @@ class HarmonyMemory():
     def calculatePenalty(self, solution):
         '''
         this function calculates the quality of each harmony 
+        this function is being minimised
         '''
         # row element
         row_ele = np.sum(np.abs(np.sum(solution,1) - 45))
@@ -142,6 +146,14 @@ if __name__ == "__main__":
     #                 [4, 0, 5, 0, 9, 0, 3, 8, 0],
     #                 [0, 1, 0, 5, 7 ,0 ,0 ,0 ,2],
     #                 [8, 0, 0, 1, 0, 4, 0, 7, 0]]
-    dd = harmony_search(example_board, iterations=5000, HMS=100)
-    print(dd)
+    dd0,dd1,dd2 = harmony_search(example_board, iterations=5000, HMS=100)
+    """
+    the best harmony and minimu quality found is stored in HM[0]
+    Prints out the the optimal solution board and the minimum penalty associated with it
+
+    -- due to the random nature of filling the memory the solutions are different for each run  
+    """
+
+    print("The optimal solution and the associated optimal quality")
+    print(dd2)
    

@@ -65,7 +65,9 @@ class HarmonyMemory():
         return randsol
 
     def calculatePenalty(self, solution):
-
+        '''
+        this function calculates the quality of each harmony 
+        '''
         # row element
         row_ele = np.sum(np.abs(np.sum(solution,1) - 45))
 

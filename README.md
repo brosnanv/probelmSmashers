@@ -46,7 +46,7 @@ Contents :              Minutes
 
 -----------------Report Link-----------------  
 
-The report can be found :[https://www.overleaf.com/project/6241f9045444c90c053eeb24]
+The report can be found :[https://www.overleaf.com/read/ksgsgcbpthxq]
 
 -----------------Video Presentation-----------------  
  

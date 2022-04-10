@@ -17,9 +17,9 @@ Vishal Ruhil
 
 -----------------Project Description-----------------
 
-This is the second assignment for the CS7IS2 module. This project looks at solving an artificial intelligence problem using three different families of search algorithms
+This is the second assignment for the CS7IS2 module. This project looks at solving an artificial intelligence problem using three different families of search algorithms <br />
 
-The problem selected is: Standardised Sudoku
+The problem selected is: Standardised Sudoku <br />
 Aim: To fill a 9x9 grid with digits so that each column, each row and each 3x3 of the nine subgrids that compose the grid contain all digits from 1 tom 9. 
 
 The search algorithms compared are: 

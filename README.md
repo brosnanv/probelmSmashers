@@ -17,12 +17,12 @@ Vishal Ruhil
 
 -----------------Project Description-----------------
 
-This is the second assignment for the CS7IS2 module. This project looks at solving an artificial intelligence problem using three different families of search algorithims
+This is the second assignment for the CS7IS2 module. This project looks at solving an artificial intelligence problem using three different families of search algorithms
 
 The problem selected is: Standardised Sudoku
 Aim: To fill a 9x9 grid with digits so that each column, each row and each 3x3 of the nine subgrids that compose the grid contain all digits from 1 tom 9. 
 
-The search algorithims compared are: 
+The search algorithms compared are: 
 
 DFS Back Tracking 
 
@@ -73,12 +73,12 @@ Arman  <br />
 
 Valerie <br />
 -Harmony Search code<br />
--Report components on HS ,comparison of algorithms,formating  <br />
+-Report components on HS, comparison of algorithms,formating  <br />
 -Presentation components of SA and introduction <br />
 
 
 Vishal 
-- Report referncing , formating and introduction 
+- Report referencing, formating and introduction 
 
 
         

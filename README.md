@@ -58,23 +58,23 @@ This git account was used for code developments.
 
 
 Ankana
--Simulated Annealing code 
--Report components on SA 
--Conclusion of report 
--Presentation Components on SA and conclusion 
+-Simulated Annealing code <br />
+-Report components on SA <br />
+-Conclusion of report <br />
+-Presentation Components on SA and conclusion <br />
 
 
 
 Arman 
--DFS with Backtracking code 
--Report components on dfs backtracking and report formatting
--Presentation components on dfs with backtracking
+-DFS with Backtracking code <br />
+-Report components on dfs backtracking and report formatting<br />
+-Presentation components on dfs with backtracking<br />
 
 
 Valerie
--Harmony Search code
--Report components on HS ,comparison of algorithms,formating  
--Presentation components of SA and introduction 
+-Harmony Search code<br />
+-Report components on HS ,comparison of algorithms,formating  <br />
+-Presentation components of SA and introduction <br />
 
 
 Vishal 

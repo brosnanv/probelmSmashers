@@ -57,7 +57,7 @@ This git account was used for code developments.
 -------------Group Contibutions---------------
 
 
-Ankana
+Ankana<br />
 -Simulated Annealing code <br />
 -Report components on SA <br />
 -Conclusion of report <br />
@@ -65,13 +65,13 @@ Ankana
 
 
 
-Arman 
+Arman  <br />
 -DFS with Backtracking code <br />
 -Report components on dfs backtracking and report formatting<br />
 -Presentation components on dfs with backtracking<br />
 
 
-Valerie
+Valerie <br />
 -Harmony Search code<br />
 -Report components on HS ,comparison of algorithms,formating  <br />
 -Presentation components of SA and introduction <br />

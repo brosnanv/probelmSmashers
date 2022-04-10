@@ -67,7 +67,7 @@ Ankana<br />
 
 Arman  <br />
 -DFS with Backtracking code <br />
--Report components on dfs backtracking and report formatting<br />
+-Report components on dfs backtracking, comparison of algorithms, and report formatting<br />
 -Presentation components on dfs with backtracking<br />
 
 

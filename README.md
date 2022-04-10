@@ -39,10 +39,6 @@ Google Folder used containing:
 Link : https://drive.google.com/drive/folders/1DwyNODUZo8ouraN_60i0ab46gBBLgDPx?usp=sharing 
 
 
-Contents :              Minutes  
-                        Design document   
-                        Contributions
-
 
 -----------------Report Link-----------------  
 
@@ -50,13 +46,33 @@ The report can be found :[https://www.overleaf.com/read/xcppvhffynym]
 
 -----------------Video Presentation-----------------  
  
-The video presentation can be found: [https://web.microsoftstream.com/video/7926be80-c5e5-4e2a-a85c-6af02f3caf10]
+The video presentation can be found: [https://web.microsoftstream.com/video/7926be80-c5e5-4e2a-a85c-6af02f3caf10?isInVideoTrimMode=true&videoId=7926be80-c5e5-4e2a-a85c-6af02f3caf10]
 
 
 -----------------Code Repo-----------------
 
 This git account was used for code developments.
 
+
+-------------Group Contibutions---------------
+Ankana
+-Simulated Annealing code 
+-Report components on SA 
+-Conclusion of report 
+-Presentation Components on SA and conclusion 
+
+Arman 
+-DFS with Backtracking code 
+-Report components on dfs backtracking and report formatting
+-Presentation components on dfs with backtracking
+
+Valerie
+-Harmony Search code
+-Report components on HS ,comparison of algorithms,formating  
+-Presentation components of SA and introduction 
+
+Vishal 
+- Report referncing , formating and introduction 
 
 
         

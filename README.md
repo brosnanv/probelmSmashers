@@ -46,11 +46,11 @@ Contents :              Minutes
 
 -----------------Report Link-----------------  
 
-The report can be found :[https://www.overleaf.com/read/ksgsgcbpthxq]
+The report can be found :[https://www.overleaf.com/read/xcppvhffynym]
 
 -----------------Video Presentation-----------------  
  
-The video presentation can be found: []
+The video presentation can be found: [https://web.microsoftstream.com/video/7926be80-c5e5-4e2a-a85c-6af02f3caf10]
 
 
 -----------------Code Repo-----------------
